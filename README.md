@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.credly.com/badges/67281cce-d85d-4069-94f6-2575263b979a/public_url" title="AWS Certified Cloud Practitioner"><img src="/images/badge_AWS_Certified_ Cloud_Practiotioner.png" alt="AWS Certified Cloud Practitioner badge" width="10%" height="" /></a>
+<a href="https://www.credly.com/badges/67281cce-d85d-4069-94f6-2575263b979a/public_url" title="AWS Certified Cloud Practitioner"><img src="/images/badge_AWS_Certified_Cloud_Practitioner.png" alt="AWS Certified Cloud Practitioner badge" width="10%" height="" /></a>
 <a href="https://www.credly.com/badges/9f5a2091-ccc2-4c5f-bd83-0bc10d3769b9/public_url" title="AWS Certified Solutions Architect – Associate"><img src="/images/badge_AWS_Certified_Solutions_Architect_Associate.png" alt="AWS Certified Solutions Architect – Associate badge" width="10%" height="" /></a>
 <a href="https://www.credly.com/badges/33ec748e-9c74-4114-8023-7cda244cca6e/public_url" title="AWS Certified Developer Architect – Associate"><img src="/images/badge_AWS_Certified_Developer_Associate.png" alt="AWS Certified Developer – Associate badge" width="10%" height="" /></a>
 <a href="https://www.credly.com/badges/29e0e3bc-b3df-4a36-8661-fce8c15ceed1/public_url" title="AWS Certified SysOps Administrator – Associate"><img src="/images/badge_AWS_Certified_SysOps Administrator_Associate.png" alt="AWS Certified SysOps Administrator – Associate badge" width="10%" height="" /></a>
