@@ -1,8 +1,5 @@
 # :swimming_man: :bike: :running: :surfing_man: Welcome to cloud4dev :muscle: :sun_with_face: :coffee:
 
-[![Twitter: cloud4dev](https://img.shields.io/twitter/follow/cloud4dev?style=social)](https://twitter.com/cloud4dev)
-[![Linkedin: cloud4dev](https://img.shields.io/badge/-cloud4dev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cloud4dev/)](https://www.linkedin.com/in/cloud4dev/)
-[![GitHub cloud4dev](https://img.shields.io/github/followers/cloud4dev?label=follow&style=social)](https://github.com/cloud4dev)
 
 <a href="https://www.credly.com/badges/67281cce-d85d-4069-94f6-2575263b979a/public_url" title="AWS Certified Cloud Practitioner"><img src="/images/badge_AWS_Certified_Cloud_Practitioner.png" alt="AWS Certified Cloud Practitioner badge" width="15%" height="" /></a>
 <a href="https://www.credly.com/badges/9f5a2091-ccc2-4c5f-bd83-0bc10d3769b9/public_url" title="AWS Certified Solutions Architect – Associate"><img src="/images/badge_AWS_Certified_Solutions_Architect_Associate.png" alt="AWS Certified Solutions Architect – Associate badge" width="15%" height="" /></a>
